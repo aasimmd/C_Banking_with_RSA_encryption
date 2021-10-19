@@ -11,3 +11,9 @@ WINDOWS : a
   
 FOR GUI : gcc -std=c11 gui.c -o gui `pkg-config --cflags --libs gtk+-3.0`  
 ./gui  
+
+# TEAM
+[Aasim Mohammed](https://github.com/aasimmd)
+[Aashutosh Konge](https://github.com/kaash-bot)
+R. Benak
+Ankith
